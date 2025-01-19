@@ -1,6 +1,6 @@
 <h2>☄️ Hey! I'm Emirhan</h2>
 
-- 👾  I’m currently working with **React.js and anything related with JavaScript.**
+- 👾  I’m currently learning HTML, CSS, JavaScript, and React.js to build responsive and user-friendly web applications.**
 
 - 📫  How to reach me **emirhansarac3621@gmail.com**
 
